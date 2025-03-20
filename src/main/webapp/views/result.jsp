@@ -1,14 +1,11 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1" isELIgnored="false"%>
-<!DOCTYPE html>
+<%@ page contentType="text/html;charset=UTF-8" language="java" isELIgnored = "false"%>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
+    <title>Home Page</title>
 </head>
 <body>
-	Result is : ${alien}
-	
-	Welcome Back ${name}
+ Result is : ${alien}
+
+ Welcome back ${name}
 </body>
 </html>
