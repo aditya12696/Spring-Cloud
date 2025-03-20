@@ -1,0 +1,12 @@
+server:
+  port: 8761  # Default Eureka Server port
+
+eureka:
+  instance:
+    hostname: localhost  # Change this for production
+  server:
+    enable-self-preservation: false
+    eviction-interval-timer-in-ms: 5000
+  client:
+    register-with-eureka: false
+    fetch-registry: false
