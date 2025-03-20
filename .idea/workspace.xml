@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea5ee2b6-8d83-4721-b094-e41fea39d5d5" name="Changes" comment="Aditya Add Spring Security Demo">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/AppSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/MyUserDetailsSevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/SecureAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/UserPrincipal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/home.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aditya12696&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aditya12696/Spring-Cloud.git&quot;,
+    &quot;accountId&quot;: &quot;1bb918d0-2fd9-4d4e-8edb-5fe037704fda&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2uZQ5XlSXvrEGmwnr95BLKVQffs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.DemoApplication.executor": "Run",
+    "Maven.springboot [clean].executor": "Run",
+    "Maven.springboot [install].executor": "Run",
+    "Maven.springmvc [clean].executor": "Run",
+    "Maven.springmvc [install].executor": "Run",
+    "Maven.springmvc [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Smart Tomcat.tomcat.executor": "Run",
+    "git-widget-placeholder": "microservices-demo",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Spring-Cloud/src/main/java/com/springboot",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Spring-Cloud\src\main\java\com\springboot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Spring-Cloud\Microservices\question-service\src\main\java\com" />
+      <recent name="D:\Spring-Cloud\Microservices\api-gateway\src\test\java\com" />
+      <recent name="D:\Spring-Cloud\Microservices\api-gateway\src\main\java\com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springboot.App" />
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springboot.DemoApplication" />
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="" />
+      <option name="contextPath" value="" />
+      <option name="docBase" value="" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.1.36" />
+          <option name="path" value="C:/Program Files/Apache Software Foundation/Tomcat 10.1" />
+          <option name="version" value="10.1.36.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DemoApplication" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Smart Tomcat.tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea5ee2b6-8d83-4721-b094-e41fea39d5d5" name="Changes" comment="" />
+      <created>1742453435842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742453435842</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Aditya Add Spring Demo">
+      <option name="closed" value="true" />
+      <created>1742454134901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742454134901</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Aditya Add Spring MVC Demo">
+      <option name="closed" value="true" />
+      <created>1742456173753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742456173753</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Aditya Add Springboot Demo">
+      <option name="closed" value="true" />
+      <created>1742458721057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742458721057</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Aditya Add Springboot Demo">
+      <option name="closed" value="true" />
+      <created>1742458881824</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742458881824</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Aditya Add Spring Security Demo">
+      <option name="closed" value="true" />
+      <created>1742471136005</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742471136005</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aditya Add Spring Demo" />
+    <MESSAGE value="Aditya Add Spring MVC Demo" />
+    <MESSAGE value="Aditya Add Springboot Demo" />
+    <MESSAGE value="Aditya Add Spring Security Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aditya Add Spring Security Demo" />
+  </component>
+</project>
