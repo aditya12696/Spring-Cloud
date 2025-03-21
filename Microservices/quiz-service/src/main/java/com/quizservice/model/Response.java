@@ -1,4 +1,4 @@
-package com.anand.quizservice.model;
+package com.quizservice.model;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;

@@ -1,15 +1,14 @@
-package com.anand.quizservice.service;
+package com.quizservice.service;
 
-import com.anand.quizservice.dao.QuizDao;
-import com.anand.quizservice.feign.QuizInterface;
-import com.anand.quizservice.model.QuestionWrapper;
-import com.anand.quizservice.model.Quiz;
-import com.anand.quizservice.model.Response;
+import com.quizservice.dao.QuizDao;
+import com.quizservice.feign.QuizInterface;
+import com.quizservice.model.QuestionWrapper;
+import com.quizservice.model.Quiz;
+import com.quizservice.model.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.RestTemplate;
 
 import java.util.List;
 
@@ -18,6 +17,22 @@ public class QuizService {
 
     @Autowired
     QuizDao quizDao;
+
+    public QuizInterface getQuizInterface() {
+        return quizInterface;
+    }
+
+    public void setQuizInterface(QuizInterface quizInterface) {
+        this.quizInterface = quizInterface;
+    }
+
+    public QuizDao getQuizDao() {
+        return quizDao;
+    }
+
+    public void setQuizDao(QuizDao quizDao) {
+        this.quizDao = quizDao;
+    }
 
     @Autowired
     QuizInterface quizInterface;

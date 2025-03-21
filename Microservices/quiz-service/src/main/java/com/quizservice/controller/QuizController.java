@@ -1,9 +1,9 @@
-package com.anand.quizservice.controller;
+package com.quizservice.controller;
 
-import com.anand.quizservice.model.QuestionWrapper;
-import com.anand.quizservice.model.QuizDto;
-import com.anand.quizservice.model.Response;
-import com.anand.quizservice.service.QuizService;
+import com.quizservice.model.QuestionWrapper;
+import com.quizservice.model.QuizDto;
+import com.quizservice.model.Response;
+import com.quizservice.service.QuizService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
